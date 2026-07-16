@@ -43,3 +43,4 @@ let f = 10;
 f /= 2; // mesma coisa que: f = f / 2;
 
 console.log(f);
+

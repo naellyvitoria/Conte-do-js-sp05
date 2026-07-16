@@ -31,7 +31,7 @@ console.log("O resultado da expressão é: " + calculo);
 console.log("");
 
 let primeiroNome = "Naelly";
-let ultimoNome = "Santos";
+let ultimoNome = "Vitoria";
 let nomeCompleto = primeiroNome + " " + ultimoNome;
 
 console.log("O meu nome completo é: " + nomeCompleto);
