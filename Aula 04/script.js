@@ -30,8 +30,8 @@ console.log("O resultado da expressão é: " + calculo);
 // Concatenando strings
 console.log("");
 
-let primeiroNome = "Richard";
-let ultimoNome = "Oliveira";
+let primeiroNome = "Naelly";
+let ultimoNome = "Santos";
 let nomeCompleto = primeiroNome + " " + ultimoNome;
 
 console.log("O meu nome completo é: " + nomeCompleto);
